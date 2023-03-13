@@ -88,7 +88,7 @@ echo "Packages installation complete!"
 
 #Download IntelliJ IDEA last edition
 cd /tmp
-wget https://download-cf.jetbrains.com/scala/ideaIC-2021.1.2.tar.gz
+wget https://download.jetbrains.com/idea/ideaIC-2022.3.3-aarch64.tar.gz
 
 # Extract file
 tar -xvzf ideaIC-2021.1.2.tar.gz
