@@ -91,7 +91,7 @@ cd /tmp
 wget https://download.jetbrains.com/idea/ideaIC-2022.3.3-aarch64.tar.gz
 
 # Extract file
-tar -xvzf ideaIC-2021.1.2.tar.gz
+tar -xvzf ideaIC-2022.3.3-aarch64.tar.gz
 
 # Move directory to /opt/
 sudo mv idea-IC-* /opt/idea
